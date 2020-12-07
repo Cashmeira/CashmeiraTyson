@@ -63,4 +63,4 @@ user_groups:
 
 My name is Cashmeira, I am a first year masters student at the University of Western Ontario. At the interface of biology and psychology, neuroscience serves as the best graduate program for me to study and pursue my passion. Following the insight of the esteemed scientists at Schulich School of Medicine and Dentistry, I want to be able to uncover the mysteries of the brain, and in doing so help discover novel treatments for  diseases and mental disorders such as autism. Currently, I am working in the psychology department under my supervisors Peter Ossenkopp and Martin Kavaliers. Presently, my projects involve the use of propionic acid in rats for animal models of autism.
 
-
+{{% staticref "files/cv.pdf" "newtab" %}}Download my CV here{{% /staticref %}}. 
