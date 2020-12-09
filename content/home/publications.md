@@ -49,7 +49,7 @@ subtitle = "Publications my current projects are based off of"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Aqua"
+  gradient_start = "lightblue"
   gradient_end = "Pink"
   
   # Background image.
