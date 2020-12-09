@@ -50,7 +50,7 @@ subtitle = "Publications my current projects are based off of"
   
   # Background gradient.
   gradient_start = "pink"
-  gradient_end = "navy"
+  gradient_end = "skyblue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.

@@ -39,9 +39,18 @@ social:
   icon_pack: fas
   link: mailto:ctyson3@uwo.ca  # For a direct email link, use "mailto:ctyson3@uwo.ca".
 
+- icon: slack
+  icon_pack: fab
+  link: https://slack.com/signin#/signin 
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Cashmeira/CashmeiraTyson
+
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CashmeiraT 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
