@@ -49,8 +49,8 @@ subtitle = "Publications my current projects are based off of"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "lightblue"
-  gradient_end = "Pink"
+  gradient_start = "pink"
+  gradient_end = "navy"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
